@@ -1,0 +1,766 @@
+﻿number,年份,GeoName,ComponentName,Unit,Description,data
+1,2013,Alabama,GDP,Millions of current dollars,All industry total,191481
+1,2014,Alabama,GDP,Millions of current dollars,All industry total,194211
+1,2015,Alabama,GDP,Millions of current dollars,All industry total,200402.7
+1,2016,Alabama,GDP,Millions of current dollars,All industry total,203829.8
+1,2017,Alabama,GDP,Millions of current dollars,All industry total,210364.4
+2,2013,Alaska,GDP,Millions of current dollars,All industry total,56622.8
+2,2014,Alaska,GDP,Millions of current dollars,All industry total,55523.4
+2,2015,Alaska,GDP,Millions of current dollars,All industry total,50641.6
+2,2016,Alaska,GDP,Millions of current dollars,All industry total,49363.4
+2,2017,Alaska,GDP,Millions of current dollars,All industry total,51803.1
+3,2013,Arizona,GDP,Millions of current dollars,All industry total,275199.1
+3,2014,Arizona,GDP,Millions of current dollars,All industry total,284430
+3,2015,Arizona,GDP,Millions of current dollars,All industry total,297141.2
+3,2016,Arizona,GDP,Millions of current dollars,All industry total,311091
+3,2017,Arizona,GDP,Millions of current dollars,All industry total,327495.8
+4,2013,Arkansas,GDP,Millions of current dollars,All industry total,114251.5
+4,2014,Arkansas,GDP,Millions of current dollars,All industry total,117336.7
+4,2015,Arkansas,GDP,Millions of current dollars,All industry total,118761.2
+4,2016,Arkansas,GDP,Millions of current dollars,All industry total,120374.8
+4,2017,Arkansas,GDP,Millions of current dollars,All industry total,123383.1
+5,2013,California,GDP,Millions of current dollars,All industry total,2262771.2
+5,2014,California,GDP,Millions of current dollars,All industry total,2395162.3
+5,2015,California,GDP,Millions of current dollars,All industry total,2553772.2
+5,2016,California,GDP,Millions of current dollars,All industry total,2657797.6
+5,2017,California,GDP,Millions of current dollars,All industry total,2819110.7
+6,2013,Colorado,GDP,Millions of current dollars,All industry total,288305.2
+6,2014,Colorado,GDP,Millions of current dollars,All industry total,306571.1
+6,2015,Colorado,GDP,Millions of current dollars,All industry total,318554.9
+6,2016,Colorado,GDP,Millions of current dollars,All industry total,329368.3
+6,2017,Colorado,GDP,Millions of current dollars,All industry total,350004.4
+7,2013,Connecticut,GDP,Millions of current dollars,All industry total,246632
+7,2014,Connecticut,GDP,Millions of current dollars,All industry total,248865.2
+7,2015,Connecticut,GDP,Millions of current dollars,All industry total,260072.6
+7,2016,Connecticut,GDP,Millions of current dollars,All industry total,263696.4
+7,2017,Connecticut,GDP,Millions of current dollars,All industry total,268310.5
+8,2013,Delaware,GDP,Millions of current dollars,All industry total,60666.1
+8,2014,Delaware,GDP,Millions of current dollars,All industry total,66891
+8,2015,Delaware,GDP,Millions of current dollars,All industry total,70969.4
+8,2016,Delaware,GDP,Millions of current dollars,All industry total,69549.7
+8,2017,Delaware,GDP,Millions of current dollars,All industry total,70774.8
+9,2013,District of Columbia,GDP,Millions of current dollars,All industry total,114891
+9,2014,District of Columbia,GDP,Millions of current dollars,All industry total,119841
+9,2015,District of Columbia,GDP,Millions of current dollars,All industry total,125211.9
+9,2016,District of Columbia,GDP,Millions of current dollars,All industry total,129826.1
+9,2017,District of Columbia,GDP,Millions of current dollars,All industry total,134042.7
+10,2013,Florida,GDP,Millions of current dollars,All industry total,800704.1
+10,2014,Florida,GDP,Millions of current dollars,All industry total,839484.1
+10,2015,Florida,GDP,Millions of current dollars,All industry total,895146.2
+10,2016,Florida,GDP,Millions of current dollars,All industry total,938774.2
+10,2017,Florida,GDP,Millions of current dollars,All industry total,985665.4
+11,2013,Georgia,GDP,Millions of current dollars,All industry total,460585.1
+11,2014,Georgia,GDP,Millions of current dollars,All industry total,485816.7
+11,2015,Georgia,GDP,Millions of current dollars,All industry total,513565.6
+11,2016,Georgia,GDP,Millions of current dollars,All industry total,539525.1
+11,2017,Georgia,GDP,Millions of current dollars,All industry total,566473.6
+12,2013,Hawaii,GDP,Millions of current dollars,All industry total,75788.3
+12,2014,Hawaii,GDP,Millions of current dollars,All industry total,77854.3
+12,2015,Hawaii,GDP,Millions of current dollars,All industry total,82710
+12,2016,Hawaii,GDP,Millions of current dollars,All industry total,85843.8
+12,2017,Hawaii,GDP,Millions of current dollars,All industry total,89428.9
+13,2013,Idaho,GDP,Millions of current dollars,All industry total,61017.7
+13,2014,Idaho,GDP,Millions of current dollars,All industry total,63521.8
+13,2015,Idaho,GDP,Millions of current dollars,All industry total,66004.3
+13,2016,Idaho,GDP,Millions of current dollars,All industry total,69029.4
+13,2017,Idaho,GDP,Millions of current dollars,All industry total,72723.2
+14,2013,Illinois,GDP,Millions of current dollars,All industry total,739627.9
+14,2014,Illinois,GDP,Millions of current dollars,All industry total,765347.7
+14,2015,Illinois,GDP,Millions of current dollars,All industry total,792999.4
+14,2016,Illinois,GDP,Millions of current dollars,All industry total,806315.5
+14,2017,Illinois,GDP,Millions of current dollars,All industry total,826817.8
+15,2013,Indiana,GDP,Millions of current dollars,All industry total,308681.7
+15,2014,Indiana,GDP,Millions of current dollars,All industry total,324934.5
+15,2015,Indiana,GDP,Millions of current dollars,All industry total,330032.2
+15,2016,Indiana,GDP,Millions of current dollars,All industry total,338126.1
+15,2017,Indiana,GDP,Millions of current dollars,All industry total,351105.6
+16,2013,Iowa,GDP,Millions of current dollars,All industry total,160299.8
+16,2014,Iowa,GDP,Millions of current dollars,All industry total,171561
+16,2015,Iowa,GDP,Millions of current dollars,All industry total,178472.6
+16,2016,Iowa,GDP,Millions of current dollars,All industry total,179546.6
+16,2017,Iowa,GDP,Millions of current dollars,All industry total,181846.3
+17,2013,Kansas,GDP,Millions of current dollars,All industry total,143220.7
+17,2014,Kansas,GDP,Millions of current dollars,All industry total,148225.6
+17,2015,Kansas,GDP,Millions of current dollars,All industry total,152374.1
+17,2016,Kansas,GDP,Millions of current dollars,All industry total,156857.4
+17,2017,Kansas,GDP,Millions of current dollars,All industry total,161219.6
+18,2013,Kentucky,GDP,Millions of current dollars,All industry total,182359.2
+18,2014,Kentucky,GDP,Millions of current dollars,All industry total,186523
+18,2015,Kentucky,GDP,Millions of current dollars,All industry total,191923.3
+18,2016,Kentucky,GDP,Millions of current dollars,All industry total,195342.2
+18,2017,Kentucky,GDP,Millions of current dollars,All industry total,200715.4
+19,2013,Louisiana,GDP,Millions of current dollars,All industry total,228967.4
+19,2014,Louisiana,GDP,Millions of current dollars,All industry total,238679.5
+19,2015,Louisiana,GDP,Millions of current dollars,All industry total,234299.1
+19,2016,Louisiana,GDP,Millions of current dollars,All industry total,227226.7
+19,2017,Louisiana,GDP,Millions of current dollars,All industry total,239204.3
+20,2013,Maine,GDP,Millions of current dollars,All industry total,53719
+20,2014,Maine,GDP,Millions of current dollars,All industry total,55795.4
+20,2015,Maine,GDP,Millions of current dollars,All industry total,57525.7
+20,2016,Maine,GDP,Millions of current dollars,All industry total,59753.9
+20,2017,Maine,GDP,Millions of current dollars,All industry total,62040.3
+21,2013,Maryland,GDP,Millions of current dollars,All industry total,341255.3
+21,2014,Maryland,GDP,Millions of current dollars,All industry total,352046.7
+21,2015,Maryland,GDP,Millions of current dollars,All industry total,367096.5
+21,2016,Maryland,GDP,Millions of current dollars,All industry total,384889.1
+21,2017,Maryland,GDP,Millions of current dollars,All industry total,394258.6
+22,2013,Massachusetts,GDP,Millions of current dollars,All industry total,454345.7
+22,2014,Massachusetts,GDP,Millions of current dollars,All industry total,473279
+22,2015,Massachusetts,GDP,Millions of current dollars,All industry total,502858
+22,2016,Massachusetts,GDP,Millions of current dollars,All industry total,519407.6
+22,2017,Massachusetts,GDP,Millions of current dollars,All industry total,540786
+23,2013,Michigan,GDP,Millions of current dollars,All industry total,432717.6
+23,2014,Michigan,GDP,Millions of current dollars,All industry total,449127.7
+23,2015,Michigan,GDP,Millions of current dollars,All industry total,474301.4
+23,2016,Michigan,GDP,Millions of current dollars,All industry total,491774.2
+23,2017,Michigan,GDP,Millions of current dollars,All industry total,505561.2
+24,2013,Minnesota,GDP,Millions of current dollars,All industry total,306153
+24,2014,Minnesota,GDP,Millions of current dollars,All industry total,319778.7
+24,2015,Minnesota,GDP,Millions of current dollars,All industry total,329493.2
+24,2016,Minnesota,GDP,Millions of current dollars,All industry total,339100.1
+24,2017,Minnesota,GDP,Millions of current dollars,All industry total,351416.8
+25,2013,Mississippi,GDP,Millions of current dollars,All industry total,101638.1
+25,2014,Mississippi,GDP,Millions of current dollars,All industry total,104146
+25,2015,Mississippi,GDP,Millions of current dollars,All industry total,105883.4
+25,2016,Mississippi,GDP,Millions of current dollars,All industry total,107096.6
+25,2017,Mississippi,GDP,Millions of current dollars,All industry total,110223.4
+26,2013,Missouri,GDP,Millions of current dollars,All industry total,277851.1
+26,2014,Missouri,GDP,Millions of current dollars,All industry total,284712.5
+26,2015,Missouri,GDP,Millions of current dollars,All industry total,294794.6
+26,2016,Missouri,GDP,Millions of current dollars,All industry total,297582.6
+26,2017,Missouri,GDP,Millions of current dollars,All industry total,304946.2
+27,2013,Montana,GDP,Millions of current dollars,All industry total,43141
+27,2014,Montana,GDP,Millions of current dollars,All industry total,44495.7
+27,2015,Montana,GDP,Millions of current dollars,All industry total,46152.9
+27,2016,Montana,GDP,Millions of current dollars,All industry total,45457.9
+27,2017,Montana,GDP,Millions of current dollars,All industry total,47559.1
+28,2013,Nebraska,GDP,Millions of current dollars,All industry total,107604.3
+28,2014,Nebraska,GDP,Millions of current dollars,All industry total,111161.7
+28,2015,Nebraska,GDP,Millions of current dollars,All industry total,115328
+28,2016,Nebraska,GDP,Millions of current dollars,All industry total,116193.8
+28,2017,Nebraska,GDP,Millions of current dollars,All industry total,120517.4
+29,2013,Nevada,GDP,Millions of current dollars,All industry total,130621.4
+29,2014,Nevada,GDP,Millions of current dollars,All industry total,135153.2
+29,2015,Nevada,GDP,Millions of current dollars,All industry total,144232.4
+29,2016,Nevada,GDP,Millions of current dollars,All industry total,151215.1
+29,2017,Nevada,GDP,Millions of current dollars,All industry total,158847.6
+30,2013,New Hampshire,GDP,Millions of current dollars,All industry total,70181.9
+30,2014,New Hampshire,GDP,Millions of current dollars,All industry total,72340.1
+30,2015,New Hampshire,GDP,Millions of current dollars,All industry total,76033.3
+30,2016,New Hampshire,GDP,Millions of current dollars,All industry total,78477.9
+30,2017,New Hampshire,GDP,Millions of current dollars,All industry total,80900.2
+31,2013,New Jersey,GDP,Millions of current dollars,All industry total,533686.7
+31,2014,New Jersey,GDP,Millions of current dollars,All industry total,546686.5
+31,2015,New Jersey,GDP,Millions of current dollars,All industry total,569679.5
+31,2016,New Jersey,GDP,Millions of current dollars,All industry total,582427.5
+31,2017,New Jersey,GDP,Millions of current dollars,All industry total,595324.5
+32,2013,New Mexico,GDP,Millions of current dollars,All industry total,88411.2
+32,2014,New Mexico,GDP,Millions of current dollars,All industry total,92480.7
+32,2015,New Mexico,GDP,Millions of current dollars,All industry total,90969
+32,2016,New Mexico,GDP,Millions of current dollars,All industry total,91043.6
+32,2017,New Mexico,GDP,Millions of current dollars,All industry total,94267.1
+33,2013,New York,GDP,Millions of current dollars,All industry total,1355581.4
+33,2014,New York,GDP,Millions of current dollars,All industry total,1427495.2
+33,2015,New York,GDP,Millions of current dollars,All industry total,1487754.1
+33,2016,New York,GDP,Millions of current dollars,All industry total,1539555.2
+33,2017,New York,GDP,Millions of current dollars,All industry total,1604133.6
+34,2013,North Carolina,GDP,Millions of current dollars,All industry total,455521.6
+34,2014,North Carolina,GDP,Millions of current dollars,All industry total,475994.6
+34,2015,North Carolina,GDP,Millions of current dollars,All industry total,503628.8
+34,2016,North Carolina,GDP,Millions of current dollars,All industry total,519122.1
+34,2017,North Carolina,GDP,Millions of current dollars,All industry total,538401.6
+35,2013,North Dakota,GDP,Millions of current dollars,All industry total,53881.7
+35,2014,North Dakota,GDP,Millions of current dollars,All industry total,58650
+35,2015,North Dakota,GDP,Millions of current dollars,All industry total,55012.2
+35,2016,North Dakota,GDP,Millions of current dollars,All industry total,50833.1
+35,2017,North Dakota,GDP,Millions of current dollars,All industry total,52472.3
+36,2013,Ohio,GDP,Millions of current dollars,All industry total,561045.5
+36,2014,Ohio,GDP,Millions of current dollars,All industry total,593355.1
+36,2015,Ohio,GDP,Millions of current dollars,All industry total,610772.3
+36,2016,Ohio,GDP,Millions of current dollars,All industry total,622835.2
+36,2017,Ohio,GDP,Millions of current dollars,All industry total,645326
+37,2013,Oklahoma,GDP,Millions of current dollars,All industry total,182618.4
+37,2014,Oklahoma,GDP,Millions of current dollars,All industry total,195023.2
+37,2015,Oklahoma,GDP,Millions of current dollars,All industry total,185936.7
+37,2016,Oklahoma,GDP,Millions of current dollars,All industry total,178913.2
+37,2017,Oklahoma,GDP,Millions of current dollars,All industry total,188368.1
+38,2013,Oregon,GDP,Millions of current dollars,All industry total,179382.7
+38,2014,Oregon,GDP,Millions of current dollars,All industry total,188880.2
+38,2015,Oregon,GDP,Millions of current dollars,All industry total,203158.9
+38,2016,Oregon,GDP,Millions of current dollars,All industry total,215050.4
+38,2017,Oregon,GDP,Millions of current dollars,All industry total,226618.9
+39,2013,Pennsylvania,GDP,Millions of current dollars,All industry total,663900.8
+39,2014,Pennsylvania,GDP,Millions of current dollars,All industry total,691187.5
+39,2015,Pennsylvania,GDP,Millions of current dollars,All industry total,711205.4
+39,2016,Pennsylvania,GDP,Millions of current dollars,All industry total,726163.9
+39,2017,Pennsylvania,GDP,Millions of current dollars,All industry total,744290.1
+40,2013,Rhode Island,GDP,Millions of current dollars,All industry total,53209.9
+40,2014,Rhode Island,GDP,Millions of current dollars,All industry total,54427.3
+40,2015,Rhode Island,GDP,Millions of current dollars,All industry total,56759.4
+40,2016,Rhode Island,GDP,Millions of current dollars,All industry total,57693.9
+40,2017,Rhode Island,GDP,Millions of current dollars,All industry total,58506.3
+41,2013,South Carolina,GDP,Millions of current dollars,All industry total,183014.9
+41,2014,South Carolina,GDP,Millions of current dollars,All industry total,191938.2
+41,2015,South Carolina,GDP,Millions of current dollars,All industry total,203920.9
+41,2016,South Carolina,GDP,Millions of current dollars,All industry total,212987.4
+41,2017,South Carolina,GDP,Millions of current dollars,All industry total,223111.1
+42,2013,South Dakota,GDP,Millions of current dollars,All industry total,44814.9
+42,2014,South Dakota,GDP,Millions of current dollars,All industry total,46046.5
+42,2015,South Dakota,GDP,Millions of current dollars,All industry total,47752.3
+42,2016,South Dakota,GDP,Millions of current dollars,All industry total,48606.1
+42,2017,South Dakota,GDP,Millions of current dollars,All industry total,49738.7
+43,2013,Tennessee,GDP,Millions of current dollars,All industry total,292803.9
+43,2014,Tennessee,GDP,Millions of current dollars,All industry total,303809
+43,2015,Tennessee,GDP,Millions of current dollars,All industry total,322663.6
+43,2016,Tennessee,GDP,Millions of current dollars,All industry total,335025.7
+43,2017,Tennessee,GDP,Millions of current dollars,All industry total,345949.8
+44,2013,Texas,GDP,Millions of current dollars,All industry total,1502249.8
+44,2014,Texas,GDP,Millions of current dollars,All industry total,1572818.4
+44,2015,Texas,GDP,Millions of current dollars,All industry total,1568457
+44,2016,Texas,GDP,Millions of current dollars,All industry total,1565632.2
+44,2017,Texas,GDP,Millions of current dollars,All industry total,1665631.8
+45,2013,Utah,GDP,Millions of current dollars,All industry total,134252.1
+45,2014,Utah,GDP,Millions of current dollars,All industry total,141259.7
+45,2015,Utah,GDP,Millions of current dollars,All industry total,149371.6
+45,2016,Utah,GDP,Millions of current dollars,All industry total,157883.3
+45,2017,Utah,GDP,Millions of current dollars,All industry total,167254.6
+46,2013,Vermont,GDP,Millions of current dollars,All industry total,29098.8
+46,2014,Vermont,GDP,Millions of current dollars,All industry total,29701.3
+46,2015,Vermont,GDP,Millions of current dollars,All industry total,30729.6
+46,2016,Vermont,GDP,Millions of current dollars,All industry total,31659
+46,2017,Vermont,GDP,Millions of current dollars,All industry total,32209.8
+47,2013,Virginia,GDP,Millions of current dollars,All industry total,455070
+47,2014,Virginia,GDP,Millions of current dollars,All industry total,463477.6
+47,2015,Virginia,GDP,Millions of current dollars,All industry total,484216.6
+47,2016,Virginia,GDP,Millions of current dollars,All industry total,493877.9
+47,2017,Virginia,GDP,Millions of current dollars,All industry total,509372.8
+48,2013,Washington,GDP,Millions of current dollars,All industry total,419345
+48,2014,Washington,GDP,Millions of current dollars,All industry total,442201.3
+48,2015,Washington,GDP,Millions of current dollars,All industry total,470329.3
+48,2016,Washington,GDP,Millions of current dollars,All industry total,491358.2
+48,2017,Washington,GDP,Millions of current dollars,All industry total,524814.6
+49,2013,West Virginia,GDP,Millions of current dollars,All industry total,71037.6
+49,2014,West Virginia,GDP,Millions of current dollars,All industry total,71919.2
+49,2015,West Virginia,GDP,Millions of current dollars,All industry total,70281
+49,2016,West Virginia,GDP,Millions of current dollars,All industry total,69721.4
+49,2017,West Virginia,GDP,Millions of current dollars,All industry total,73162.9
+50,2013,Wisconsin,GDP,Millions of current dollars,All industry total,282384.6
+50,2014,Wisconsin,GDP,Millions of current dollars,All industry total,293884.6
+50,2015,Wisconsin,GDP,Millions of current dollars,All industry total,305816.5
+50,2016,Wisconsin,GDP,Millions of current dollars,All industry total,313532.4
+50,2017,Wisconsin,GDP,Millions of current dollars,All industry total,321987.7
+51,2013,Wyoming,GDP,Millions of current dollars,All industry total,38922.5
+51,2014,Wyoming,GDP,Millions of current dollars,All industry total,39436.1
+51,2015,Wyoming,GDP,Millions of current dollars,All industry total,37721.5
+51,2016,Wyoming,GDP,Millions of current dollars,All industry total,35740.3
+51,2017,Wyoming,GDP,Millions of current dollars,All industry total,37453.6
+1,2013,Alabama,Total employment,Number of jobs,All industry total,2523338
+2,2013,Alaska ,Total employment,Number of jobs,All industry total,461110
+3,2013,Arizona,Total employment,Number of jobs,All industry total,3371219
+4,2013,Arkansas,Total employment,Number of jobs,All industry total,1569249
+5,2013,California,Total employment,Number of jobs,All industry total,21319995
+6,2013,Colorado,Total employment,Number of jobs,All industry total,3356175
+7,2013,Connecticut,Total employment,Number of jobs,All industry total,2246561
+8,2013,Delaware,Total employment,Number of jobs,All industry total,544797
+9,2013,District of Columbia,Total employment,Number of jobs,All industry total,848226
+10,2013,Florida,Total employment,Number of jobs,All industry total,10539255
+11,2013,Georgia,Total employment,Number of jobs,All industry total,5496783
+12,2013,Hawaii ,Total employment,Number of jobs,All industry total,868122
+13,2013,Idaho,Total employment,Number of jobs,All industry total,902866
+14,2013,Illinois,Total employment,Number of jobs,All industry total,7503158
+15,2013,Indiana,Total employment,Number of jobs,All industry total,3684125
+16,2013,Iowa,Total employment,Number of jobs,All industry total,2019480
+17,2013,Kansas,Total employment,Number of jobs,All industry total,1869054
+18,2013,Kentucky,Total employment,Number of jobs,All industry total,2407562
+19,2013,Louisiana,Total employment,Number of jobs,All industry total,2641657
+20,2013,Maine,Total employment,Number of jobs,All industry total,803641
+21,2013,Maryland,Total employment,Number of jobs,All industry total,3493921
+22,2013,Massachusetts,Total employment,Number of jobs,All industry total,4353568
+23,2013,Michigan,Total employment,Number of jobs,All industry total,5323762
+24,2013,Minnesota,Total employment,Number of jobs,All industry total,3556487
+25,2013,Mississippi,Total employment,Number of jobs,All industry total,1532583
+26,2013,Missouri,Total employment,Number of jobs,All industry total,3565922
+27,2013,Montana,Total employment,Number of jobs,All industry total,641917
+28,2013,Nebraska,Total employment,Number of jobs,All industry total,1266477
+29,2013,Nevada,Total employment,Number of jobs,All industry total,1561388
+30,2013,New Hampshire,Total employment,Number of jobs,All industry total,835032
+31,2013,New Jersey,Total employment,Number of jobs,All industry total,5132846
+32,2013,New Mexico,Total employment,Number of jobs,All industry total,1075465
+33,2013,New York,Total employment,Number of jobs,All industry total,11619137
+34,2013,North Carolina,Total employment,Number of jobs,All industry total,5437125
+35,2013,North Dakota,Total employment,Number of jobs,All industry total,587398
+36,2013,Ohio,Total employment,Number of jobs,All industry total,6680769
+37,2013,Oklahoma,Total employment,Number of jobs,All industry total,2248291
+38,2013,Oregon,Total employment,Number of jobs,All industry total,2259714
+39,2013,Pennsylvania,Total employment,Number of jobs,All industry total,7350854
+40,2013,Rhode Island,Total employment,Number of jobs,All industry total,602429
+41,2013,South Carolina,Total employment,Number of jobs,All industry total,2500792
+42,2013,South Dakota,Total employment,Number of jobs,All industry total,581384
+43,2013,Tennessee,Total employment,Number of jobs,All industry total,3688630
+44,2013,Texas,Total employment,Number of jobs,All industry total,15529989
+45,2013,Utah,Total employment,Number of jobs,All industry total,1753371
+46,2013,Vermont,Total employment,Number of jobs,All industry total,425029
+47,2013,Virginia,Total employment,Number of jobs,All industry total,4898765
+48,2013,Washington,Total employment,Number of jobs,All industry total,3991724
+49,2013,West Virginia,Total employment,Number of jobs,All industry total,913619
+50,2013,Wisconsin,Total employment,Number of jobs,All industry total,3539937
+51,2013,Wyoming,Total employment,Number of jobs,All industry total,400402
+1,2014,Alabama,Total employment,Number of jobs,All industry total,2551872
+2,2014,Alaska ,Total employment,Number of jobs,All industry total,461327
+3,2014,Arizona,Total employment,Number of jobs,All industry total,3448173
+4,2014,Arkansas,Total employment,Number of jobs,All industry total,1587414
+5,2014,California,Total employment,Number of jobs,All industry total,21997098
+6,2014,Colorado,Total employment,Number of jobs,All industry total,3467519
+7,2014,Connecticut,Total employment,Number of jobs,All industry total,2266029
+8,2014,Delaware,Total employment,Number of jobs,All industry total,556517
+9,2014,District of Columbia,Total employment,Number of jobs,All industry total,860669
+10,2014,Florida,Total employment,Number of jobs,All industry total,10937166
+11,2014,Georgia,Total employment,Number of jobs,All industry total,5670735
+12,2014,Hawaii ,Total employment,Number of jobs,All industry total,882732
+13,2014,Idaho,Total employment,Number of jobs,All industry total,925519
+14,2014,Illinois,Total employment,Number of jobs,All industry total,7613484
+15,2014,Indiana,Total employment,Number of jobs,All industry total,3740428
+16,2014,Iowa,Total employment,Number of jobs,All industry total,2038926
+17,2014,Kansas,Total employment,Number of jobs,All industry total,1895859
+18,2014,Kentucky,Total employment,Number of jobs,All industry total,2440072
+19,2014,Louisiana,Total employment,Number of jobs,All industry total,2684755
+20,2014,Maine,Total employment,Number of jobs,All industry total,810868
+21,2014,Maryland,Total employment,Number of jobs,All industry total,3537654
+22,2014,Massachusetts,Total employment,Number of jobs,All industry total,4447626
+23,2014,Michigan,Total employment,Number of jobs,All industry total,5412041
+24,2014,Minnesota,Total employment,Number of jobs,All industry total,3603717
+25,2014,Mississippi,Total employment,Number of jobs,All industry total,1556753
+26,2014,Missouri,Total employment,Number of jobs,All industry total,3596751
+27,2014,Montana,Total employment,Number of jobs,All industry total,648873
+28,2014,Nebraska,Total employment,Number of jobs,All industry total,1282745
+29,2014,Nevada,Total employment,Number of jobs,All industry total,1608494
+30,2014,New Hampshire,Total employment,Number of jobs,All industry total,844499
+31,2014,New Jersey,Total employment,Number of jobs,All industry total,5206784
+32,2014,New Mexico,Total employment,Number of jobs,All industry total,1083772
+33,2014,New York,Total employment,Number of jobs,All industry total,11865518
+34,2014,North Carolina,Total employment,Number of jobs,All industry total,5568662
+35,2014,North Dakota,Total employment,Number of jobs,All industry total,606989
+36,2014,Ohio,Total employment,Number of jobs,All industry total,6771468
+37,2014,Oklahoma,Total employment,Number of jobs,All industry total,2272885
+38,2014,Oregon,Total employment,Number of jobs,All industry total,2323122
+39,2014,Pennsylvania,Total employment,Number of jobs,All industry total,7434313
+40,2014,Rhode Island,Total employment,Number of jobs,All industry total,613133
+41,2014,South Carolina,Total employment,Number of jobs,All industry total,2564448
+42,2014,South Dakota,Total employment,Number of jobs,All industry total,589296
+43,2014,Tennessee,Total employment,Number of jobs,All industry total,3772332
+44,2014,Texas,Total employment,Number of jobs,All industry total,16000512
+45,2014,Utah,Total employment,Number of jobs,All industry total,1803953
+46,2014,Vermont,Total employment,Number of jobs,All industry total,428938
+47,2014,Virginia,Total employment,Number of jobs,All industry total,4953354
+48,2014,Washington,Total employment,Number of jobs,All industry total,4094309
+49,2014,West Virginia,Total employment,Number of jobs,All industry total,911516
+50,2014,Wisconsin,Total employment,Number of jobs,All industry total,3585838
+51,2014,Wyoming,Total employment,Number of jobs,All industry total,406343
+1,2015,Alabama,Total employment,Number of jobs,All industry total,2586885
+2,2015,Alaska ,Total employment,Number of jobs,All industry total,461767
+3,2015,Arizona,Total employment,Number of jobs,All industry total,3548174
+4,2015,Arkansas,Total employment,Number of jobs,All industry total,1610779
+5,2015,California,Total employment,Number of jobs,All industry total,22686455
+6,2015,Colorado,Total employment,Number of jobs,All industry total,3574369
+7,2015,Connecticut,Total employment,Number of jobs,All industry total,2288017
+8,2015,Delaware,Total employment,Number of jobs,All industry total,568879
+9,2015,District of Columbia,Total employment,Number of jobs,All industry total,873193
+10,2015,Florida,Total employment,Number of jobs,All industry total,11366665
+11,2015,Georgia,Total employment,Number of jobs,All industry total,5832372
+12,2015,Hawaii ,Total employment,Number of jobs,All industry total,901206
+13,2015,Idaho,Total employment,Number of jobs,All industry total,949276
+14,2015,Illinois,Total employment,Number of jobs,All industry total,7748883
+15,2015,Indiana,Total employment,Number of jobs,All industry total,3796375
+16,2015,Iowa,Total employment,Number of jobs,All industry total,2059398
+17,2015,Kansas,Total employment,Number of jobs,All industry total,1910809
+18,2015,Kentucky,Total employment,Number of jobs,All industry total,2473302
+19,2015,Louisiana,Total employment,Number of jobs,All industry total,2695547
+20,2015,Maine,Total employment,Number of jobs,All industry total,816598
+21,2015,Maryland,Total employment,Number of jobs,All industry total,3602938
+22,2015,Massachusetts,Total employment,Number of jobs,All industry total,4631324
+23,2015,Michigan,Total employment,Number of jobs,All industry total,5501054
+24,2015,Minnesota,Total employment,Number of jobs,All industry total,3662971
+25,2015,Mississippi,Total employment,Number of jobs,All industry total,1568187
+26,2015,Missouri,Total employment,Number of jobs,All industry total,3654912
+27,2015,Montana,Total employment,Number of jobs,All industry total,660326
+28,2015,Nebraska,Total employment,Number of jobs,All industry total,1302888
+29,2015,Nevada,Total employment,Number of jobs,All industry total,1664121
+30,2015,New Hampshire,Total employment,Number of jobs,All industry total,860597
+31,2015,New Jersey,Total employment,Number of jobs,All industry total,5302982
+32,2015,New Mexico,Total employment,Number of jobs,All industry total,1091984
+33,2015,New York,Total employment,Number of jobs,All industry total,12099078
+34,2015,North Carolina,Total employment,Number of jobs,All industry total,5695077
+35,2015,North Dakota,Total employment,Number of jobs,All industry total,597475
+36,2015,Ohio,Total employment,Number of jobs,All industry total,6862067
+37,2015,Oklahoma,Total employment,Number of jobs,All industry total,2286956
+38,2015,Oregon,Total employment,Number of jobs,All industry total,2390658
+39,2015,Pennsylvania,Total employment,Number of jobs,All industry total,7510216
+40,2015,Rhode Island,Total employment,Number of jobs,All industry total,627000
+41,2015,South Carolina,Total employment,Number of jobs,All industry total,2636675
+42,2015,South Dakota,Total employment,Number of jobs,All industry total,592665
+43,2015,Tennessee,Total employment,Number of jobs,All industry total,3858802
+44,2015,Texas,Total employment,Number of jobs,All industry total,16413328
+45,2015,Utah,Total employment,Number of jobs,All industry total,1866146
+46,2015,Vermont,Total employment,Number of jobs,All industry total,432641
+47,2015,Virginia,Total employment,Number of jobs,All industry total,5060545
+48,2015,Washington,Total employment,Number of jobs,All industry total,4198931
+49,2015,West Virginia,Total employment,Number of jobs,All industry total,903866
+50,2015,Wisconsin,Total employment,Number of jobs,All industry total,3624387
+51,2015,Wyoming,Total employment,Number of jobs,All industry total,406054
+1,2016,Alabama,Total employment,Number of jobs,All industry total,2619154
+2,2016,Alaska ,Total employment,Number of jobs,All industry total,457371
+3,2016,Arizona,Total employment,Number of jobs,All industry total,3646604
+4,2016,Arkansas,Total employment,Number of jobs,All industry total,1629237
+5,2016,California,Total employment,Number of jobs,All industry total,23165468
+6,2016,Colorado,Total employment,Number of jobs,All industry total,3668134
+7,2016,Connecticut,Total employment,Number of jobs,All industry total,2300054
+8,2016,Delaware,Total employment,Number of jobs,All industry total,578596
+9,2016,District of Columbia,Total employment,Number of jobs,All industry total,891451
+10,2016,Florida,Total employment,Number of jobs,All industry total,11673201
+11,2016,Georgia,Total employment,Number of jobs,All industry total,5971729
+12,2016,Hawaii ,Total employment,Number of jobs,All industry total,913190
+13,2016,Idaho,Total employment,Number of jobs,All industry total,976418
+14,2016,Illinois,Total employment,Number of jobs,All industry total,7799593
+15,2016,Indiana,Total employment,Number of jobs,All industry total,3847261
+16,2016,Iowa,Total employment,Number of jobs,All industry total,2066052
+17,2016,Kansas,Total employment,Number of jobs,All industry total,1916297
+18,2016,Kentucky,Total employment,Number of jobs,All industry total,2498410
+19,2016,Louisiana,Total employment,Number of jobs,All industry total,2690552
+20,2016,Maine,Total employment,Number of jobs,All industry total,826651
+21,2016,Maryland,Total employment,Number of jobs,All industry total,3656163
+22,2016,Massachusetts,Total employment,Number of jobs,All industry total,4709778
+23,2016,Michigan,Total employment,Number of jobs,All industry total,5575128
+24,2016,Minnesota,Total employment,Number of jobs,All industry total,3698363
+25,2016,Mississippi,Total employment,Number of jobs,All industry total,1580050
+26,2016,Missouri,Total employment,Number of jobs,All industry total,3700536
+27,2016,Montana,Total employment,Number of jobs,All industry total,667552
+28,2016,Nebraska,Total employment,Number of jobs,All industry total,1311043
+29,2016,Nevada,Total employment,Number of jobs,All industry total,1723954
+30,2016,New Hampshire,Total employment,Number of jobs,All industry total,873180
+31,2016,New Jersey,Total employment,Number of jobs,All industry total,5391704
+32,2016,New Mexico,Total employment,Number of jobs,All industry total,1092637
+33,2016,New York,Total employment,Number of jobs,All industry total,12258958
+34,2016,North Carolina,Total employment,Number of jobs,All industry total,5828879
+35,2016,North Dakota,Total employment,Number of jobs,All industry total,576615
+36,2016,Ohio,Total employment,Number of jobs,All industry total,6932002
+37,2016,Oklahoma,Total employment,Number of jobs,All industry total,2286070
+38,2016,Oregon,Total employment,Number of jobs,All industry total,2449802
+39,2016,Pennsylvania,Total employment,Number of jobs,All industry total,7593573
+40,2016,Rhode Island,Total employment,Number of jobs,All industry total,632399
+41,2016,South Carolina,Total employment,Number of jobs,All industry total,2699902
+42,2016,South Dakota,Total employment,Number of jobs,All industry total,597372
+43,2016,Tennessee,Total employment,Number of jobs,All industry total,3950400
+44,2016,Texas,Total employment,Number of jobs,All industry total,16684682
+45,2016,Utah,Total employment,Number of jobs,All industry total,1933657
+46,2016,Vermont,Total employment,Number of jobs,All industry total,433808
+47,2016,Virginia,Total employment,Number of jobs,All industry total,5142525
+48,2016,Washington,Total employment,Number of jobs,All industry total,4310239
+49,2016,West Virginia,Total employment,Number of jobs,All industry total,889595
+50,2016,Wisconsin,Total employment,Number of jobs,All industry total,3657646
+51,2016,Wyoming,Total employment,Number of jobs,All industry total,398265
+1,2017,Alabama,Total employment,Number of jobs,All industry total,2653968
+2,2017,Alaska ,Total employment,Number of jobs,All industry total,456799
+3,2017,Arizona,Total employment,Number of jobs,All industry total,3751283
+4,2017,Arkansas,Total employment,Number of jobs,All industry total,1644432
+5,2017,California,Total employment,Number of jobs,All industry total,23610226
+6,2017,Colorado,Total employment,Number of jobs,All industry total,3768593
+7,2017,Connecticut,Total employment,Number of jobs,All industry total,2304746
+8,2017,Delaware,Total employment,Number of jobs,All industry total,586045
+9,2017,District of Columbia,Total employment,Number of jobs,All industry total,902940
+10,2017,Florida,Total employment,Number of jobs,All industry total,12130376
+11,2017,Georgia,Total employment,Number of jobs,All industry total,6140776
+12,2017,Hawaii ,Total employment,Number of jobs,All industry total,920376
+13,2017,Idaho,Total employment,Number of jobs,All industry total,1009682
+14,2017,Illinois,Total employment,Number of jobs,All industry total,7839160
+15,2017,Indiana,Total employment,Number of jobs,All industry total,3912817
+16,2017,Iowa,Total employment,Number of jobs,All industry total,2066284
+17,2017,Kansas,Total employment,Number of jobs,All industry total,1917326
+18,2017,Kentucky,Total employment,Number of jobs,All industry total,2524927
+19,2017,Louisiana,Total employment,Number of jobs,All industry total,2701947
+20,2017,Maine,Total employment,Number of jobs,All industry total,836117
+21,2017,Maryland,Total employment,Number of jobs,All industry total,3702196
+22,2017,Massachusetts,Total employment,Number of jobs,All industry total,4788192
+23,2017,Michigan,Total employment,Number of jobs,All industry total,5643225
+24,2017,Minnesota,Total employment,Number of jobs,All industry total,3743706
+25,2017,Mississippi,Total employment,Number of jobs,All industry total,1593678
+26,2017,Missouri,Total employment,Number of jobs,All industry total,3742873
+27,2017,Montana,Total employment,Number of jobs,All industry total,675503
+28,2017,Nebraska,Total employment,Number of jobs,All industry total,1320856
+29,2017,Nevada,Total employment,Number of jobs,All industry total,1782895
+30,2017,New Hampshire,Total employment,Number of jobs,All industry total,883500
+31,2017,New Jersey,Total employment,Number of jobs,All industry total,5464627
+32,2017,New Mexico,Total employment,Number of jobs,All industry total,1097669
+33,2017,New York,Total employment,Number of jobs,All industry total,12408724
+34,2017,North Carolina,Total employment,Number of jobs,All industry total,5933790
+35,2017,North Dakota,Total employment,Number of jobs,All industry total,575020
+36,2017,Ohio,Total employment,Number of jobs,All industry total,7005100
+37,2017,Oklahoma,Total employment,Number of jobs,All industry total,2294185
+38,2017,Oregon,Total employment,Number of jobs,All industry total,2522273
+39,2017,Pennsylvania,Total employment,Number of jobs,All industry total,7677266
+40,2017,Rhode Island,Total employment,Number of jobs,All industry total,639244
+41,2017,South Carolina,Total employment,Number of jobs,All industry total,2766293
+42,2017,South Dakota,Total employment,Number of jobs,All industry total,603150
+43,2017,Tennessee,Total employment,Number of jobs,All industry total,4041451
+44,2017,Texas,Total employment,Number of jobs,All industry total,17159034
+45,2017,Utah,Total employment,Number of jobs,All industry total,1997317
+46,2017,Vermont,Total employment,Number of jobs,All industry total,436990
+47,2017,Virginia,Total employment,Number of jobs,All industry total,5229218
+48,2017,Washington,Total employment,Number of jobs,All industry total,4441946
+49,2017,West Virginia,Total employment,Number of jobs,All industry total,890055
+50,2017,Wisconsin,Total employment,Number of jobs,All industry total,3686510
+51,2017,Wyoming,Total employment,Number of jobs,All industry total,399994
+1,2013,Alabama,Personal income per capita,dollar,All industry total,36107
+2,2013,Alaska ,Personal income per capita,dollar,All industry total,52723
+3,2013,Arizona,Personal income per capita,dollar,All industry total,36602
+4,2013,Arkansas,Personal income per capita,dollar,All industry total,36235
+5,2013,California,Personal income per capita,dollar,All industry total,49277
+6,2013,Colorado,Personal income per capita,dollar,All industry total,47298
+7,2013,Connecticut,Personal income per capita,dollar,All industry total,63554
+8,2013,Delaware,Personal income per capita,dollar,All industry total,44335
+9,2013,District of Columbia,Personal income per capita,dollar,All industry total,67939
+10,2013,Florida,Personal income per capita,dollar,All industry total,40659
+11,2013,Georgia,Personal income per capita,dollar,All industry total,37549
+12,2013,Hawaii ,Personal income per capita,dollar,All industry total,44955
+13,2013,Idaho,Personal income per capita,dollar,All industry total,36200
+14,2013,Illinois,Personal income per capita,dollar,All industry total,47113
+15,2013,Indiana,Personal income per capita,dollar,All industry total,39648
+16,2013,Iowa,Personal income per capita,dollar,All industry total,43472
+17,2013,Kansas,Personal income per capita,dollar,All industry total,45958
+18,2013,Kentucky,Personal income per capita,dollar,All industry total,35919
+19,2013,Louisiana,Personal income per capita,dollar,All industry total,40911
+20,2013,Maine,Personal income per capita,dollar,All industry total,40165
+21,2013,Maryland,Personal income per capita,dollar,All industry total,53052
+22,2013,Massachusetts,Personal income per capita,dollar,All industry total,57372
+23,2013,Michigan,Personal income per capita,dollar,All industry total,39361
+24,2013,Minnesota,Personal income per capita,dollar,All industry total,47941
+25,2013,Mississippi,Personal income per capita,dollar,All industry total,33852
+26,2013,Missouri,Personal income per capita,dollar,All industry total,40324
+27,2013,Montana,Personal income per capita,dollar,All industry total,40176
+28,2013,Nebraska,Personal income per capita,dollar,All industry total,46592
+29,2013,Nevada,Personal income per capita,dollar,All industry total,39271
+30,2013,New Hampshire,Personal income per capita,dollar,All industry total,50754
+31,2013,New Jersey,Personal income per capita,dollar,All industry total,56045
+32,2013,New Mexico,Personal income per capita,dollar,All industry total,35079
+33,2013,New York,Personal income per capita,dollar,All industry total,54491
+34,2013,North Carolina,Personal income per capita,dollar,All industry total,38200
+35,2013,North Dakota,Personal income per capita,dollar,All industry total,53824
+36,2013,Ohio,Personal income per capita,dollar,All industry total,41098
+37,2013,Oklahoma,Personal income per capita,dollar,All industry total,43097
+38,2013,Oregon,Personal income per capita,dollar,All industry total,40015
+39,2013,Pennsylvania,Personal income per capita,dollar,All industry total,46411
+40,2013,Rhode Island,Personal income per capita,dollar,All industry total,46225
+41,2013,South Carolina,Personal income per capita,dollar,All industry total,35731
+42,2013,South Dakota,Personal income per capita,dollar,All industry total,45245
+43,2013,Tennessee,Personal income per capita,dollar,All industry total,39427
+44,2013,Texas,Personal income per capita,dollar,All industry total,43781
+45,2013,Utah,Personal income per capita,dollar,All industry total,36725
+46,2013,Vermont,Personal income per capita,dollar,All industry total,45941
+47,2013,Virginia,Personal income per capita,dollar,All industry total,48855
+48,2013,Washington,Personal income per capita,dollar,All industry total,48304
+49,2013,West Virginia,Personal income per capita,dollar,All industry total,34946
+50,2013,Wisconsin,Personal income per capita,dollar,All industry total,43184
+51,2013,Wyoming,Personal income per capita,dollar,All industry total,52892
+1,2014,Alabama,Personal income per capita,dollar,All industry total,37266
+2,2014,Alaska ,Personal income per capita,dollar,All industry total,55833
+3,2014,Arizona,Personal income per capita,dollar,All industry total,38226
+4,2014,Arkansas,Personal income per capita,dollar,All industry total,38260
+5,2014,California,Personal income per capita,dollar,All industry total,52324
+6,2014,Colorado,Personal income per capita,dollar,All industry total,50700
+7,2014,Connecticut,Personal income per capita,dollar,All industry total,66485
+8,2014,Delaware,Personal income per capita,dollar,All industry total,45988
+9,2014,District of Columbia,Personal income per capita,dollar,All industry total,71334
+10,2014,Florida,Personal income per capita,dollar,All industry total,43109
+11,2014,Georgia,Personal income per capita,dollar,All industry total,39795
+12,2014,Hawaii ,Personal income per capita,dollar,All industry total,47246
+13,2014,Idaho,Personal income per capita,dollar,All industry total,37896
+14,2014,Illinois,Personal income per capita,dollar,All industry total,49444
+15,2014,Indiana,Personal income per capita,dollar,All industry total,41099
+16,2014,Iowa,Personal income per capita,dollar,All industry total,44799
+17,2014,Kansas,Personal income per capita,dollar,All industry total,46874
+18,2014,Kentucky,Personal income per capita,dollar,All industry total,37584
+19,2014,Louisiana,Personal income per capita,dollar,All industry total,42684
+20,2014,Maine,Personal income per capita,dollar,All industry total,41818
+21,2014,Maryland,Personal income per capita,dollar,All industry total,54687
+22,2014,Massachusetts,Personal income per capita,dollar,All industry total,59954
+23,2014,Michigan,Personal income per capita,dollar,All industry total,41147
+24,2014,Minnesota,Personal income per capita,dollar,All industry total,50254
+25,2014,Mississippi,Personal income per capita,dollar,All industry total,34545
+26,2014,Missouri,Personal income per capita,dollar,All industry total,41775
+27,2014,Montana,Personal income per capita,dollar,All industry total,41900
+28,2014,Nebraska,Personal income per capita,dollar,All industry total,48948
+29,2014,Nevada,Personal income per capita,dollar,All industry total,41484
+30,2014,New Hampshire,Personal income per capita,dollar,All industry total,52673
+31,2014,New Jersey,Personal income per capita,dollar,All industry total,58655
+32,2014,New Mexico,Personal income per capita,dollar,All industry total,37182
+33,2014,New York,Personal income per capita,dollar,All industry total,56743
+34,2014,North Carolina,Personal income per capita,dollar,All industry total,40064
+35,2014,North Dakota,Personal income per capita,dollar,All industry total,56316
+36,2014,Ohio,Personal income per capita,dollar,All industry total,42754
+37,2014,Oklahoma,Personal income per capita,dollar,All industry total,45540
+38,2014,Oregon,Personal income per capita,dollar,All industry total,42483
+39,2014,Pennsylvania,Personal income per capita,dollar,All industry total,48431
+40,2014,Rhode Island,Personal income per capita,dollar,All industry total,48165
+41,2014,South Carolina,Personal income per capita,dollar,All industry total,37622
+42,2014,South Dakota,Personal income per capita,dollar,All industry total,46959
+43,2014,Tennessee,Personal income per capita,dollar,All industry total,40801
+44,2014,Texas,Personal income per capita,dollar,All industry total,46289
+45,2014,Utah,Personal income per capita,dollar,All industry total,38517
+46,2014,Vermont,Personal income per capita,dollar,All industry total,47802
+47,2014,Virginia,Personal income per capita,dollar,All industry total,50754
+48,2014,Washington,Personal income per capita,dollar,All industry total,51518
+49,2014,West Virginia,Personal income per capita,dollar,All industry total,36153
+50,2014,Wisconsin,Personal income per capita,dollar,All industry total,44939
+51,2014,Wyoming,Personal income per capita,dollar,All industry total,56708
+1,2015,Alabama,Personal income per capita,dollar,All industry total,38644
+2,2015,Alaska ,Personal income per capita,dollar,All industry total,57583
+3,2015,Arizona,Personal income per capita,dollar,All industry total,39676
+4,2015,Arkansas,Personal income per capita,dollar,All industry total,39343
+5,2015,California,Personal income per capita,dollar,All industry total,55758
+6,2015,Colorado,Personal income per capita,dollar,All industry total,52133
+7,2015,Connecticut,Personal income per capita,dollar,All industry total,68288
+8,2015,Delaware,Personal income per capita,dollar,All industry total,47961
+9,2015,District of Columbia,Personal income per capita,dollar,All industry total,75439
+10,2015,Florida,Personal income per capita,dollar,All industry total,45287
+11,2015,Georgia,Personal income per capita,dollar,All industry total,41681
+12,2015,Hawaii ,Personal income per capita,dollar,All industry total,49480
+13,2015,Idaho,Personal income per capita,dollar,All industry total,39857
+14,2015,Illinois,Personal income per capita,dollar,All industry total,51519
+15,2015,Indiana,Personal income per capita,dollar,All industry total,42627
+16,2015,Iowa,Personal income per capita,dollar,All industry total,46224
+17,2015,Kansas,Personal income per capita,dollar,All industry total,47386
+18,2015,Kentucky,Personal income per capita,dollar,All industry total,39093
+19,2015,Louisiana,Personal income per capita,dollar,All industry total,43034
+20,2015,Maine,Personal income per capita,dollar,All industry total,43619
+21,2015,Maryland,Personal income per capita,dollar,All industry total,57139
+22,2015,Massachusetts,Personal income per capita,dollar,All industry total,63583
+23,2015,Michigan,Personal income per capita,dollar,All industry total,43533
+24,2015,Minnesota,Personal income per capita,dollar,All industry total,52315
+25,2015,Mississippi,Personal income per capita,dollar,All industry total,35022
+26,2015,Missouri,Personal income per capita,dollar,All industry total,43096
+27,2015,Montana,Personal income per capita,dollar,All industry total,43504
+28,2015,Nebraska,Personal income per capita,dollar,All industry total,50588
+29,2015,Nevada,Personal income per capita,dollar,All industry total,44065
+30,2015,New Hampshire,Personal income per capita,dollar,All industry total,54788
+31,2015,New Jersey,Personal income per capita,dollar,All industry total,61110
+32,2015,New Mexico,Personal income per capita,dollar,All industry total,38261
+33,2015,New York,Personal income per capita,dollar,All industry total,59141
+34,2015,North Carolina,Personal income per capita,dollar,All industry total,41851
+35,2015,North Dakota,Personal income per capita,dollar,All industry total,53845
+36,2015,Ohio,Personal income per capita,dollar,All industry total,44340
+37,2015,Oklahoma,Personal income per capita,dollar,All industry total,44245
+38,2015,Oregon,Personal income per capita,dollar,All industry total,45182
+39,2015,Pennsylvania,Personal income per capita,dollar,All industry total,50378
+40,2015,Rhode Island,Personal income per capita,dollar,All industry total,50053
+41,2015,South Carolina,Personal income per capita,dollar,All industry total,39496
+42,2015,South Dakota,Personal income per capita,dollar,All industry total,48655
+43,2015,Tennessee,Personal income per capita,dollar,All industry total,42593
+44,2015,Texas,Personal income per capita,dollar,All industry total,46577
+45,2015,Utah,Personal income per capita,dollar,All industry total,40867
+46,2015,Vermont,Personal income per capita,dollar,All industry total,49582
+47,2015,Virginia,Personal income per capita,dollar,All industry total,52892
+48,2015,Washington,Personal income per capita,dollar,All industry total,53840
+49,2015,West Virginia,Personal income per capita,dollar,All industry total,36915
+50,2015,Wisconsin,Personal income per capita,dollar,All industry total,46681
+51,2015,Wyoming,Personal income per capita,dollar,All industry total,57101
+1,2016,Alabama,Personal income per capita,dollar,All industry total,39224
+2,2016,Alaska ,Personal income per capita,dollar,All industry total,56016
+3,2016,Arizona,Personal income per capita,dollar,All industry total,40671
+4,2016,Arkansas,Personal income per capita,dollar,All industry total,40148
+5,2016,California,Personal income per capita,dollar,All industry total,57739
+6,2016,Colorado,Personal income per capita,dollar,All industry total,52262
+7,2016,Connecticut,Personal income per capita,dollar,All industry total,69741
+8,2016,Delaware,Personal income per capita,dollar,All industry total,48505
+9,2016,District of Columbia,Personal income per capita,dollar,All industry total,77475
+10,2016,Florida,Personal income per capita,dollar,All industry total,45684
+11,2016,Georgia,Personal income per capita,dollar,All industry total,42693
+12,2016,Hawaii ,Personal income per capita,dollar,All industry total,51032
+13,2016,Idaho,Personal income per capita,dollar,All industry total,40670
+14,2016,Illinois,Personal income per capita,dollar,All industry total,52273
+15,2016,Indiana,Personal income per capita,dollar,All industry total,43741
+16,2016,Iowa,Personal income per capita,dollar,All industry total,46431
+17,2016,Kansas,Personal income per capita,dollar,All industry total,47510
+18,2016,Kentucky,Personal income per capita,dollar,All industry total,39638
+19,2016,Louisiana,Personal income per capita,dollar,All industry total,42726
+20,2016,Maine,Personal income per capita,dollar,All industry total,44839
+21,2016,Maryland,Personal income per capita,dollar,All industry total,59029
+22,2016,Massachusetts,Personal income per capita,dollar,All industry total,65473
+23,2016,Michigan,Personal income per capita,dollar,All industry total,44868
+24,2016,Minnesota,Personal income per capita,dollar,All industry total,53209
+25,2016,Mississippi,Personal income per capita,dollar,All industry total,35613
+26,2016,Missouri,Personal income per capita,dollar,All industry total,44336
+27,2016,Montana,Personal income per capita,dollar,All industry total,43721
+28,2016,Nebraska,Personal income per capita,dollar,All industry total,49703
+29,2016,Nevada,Personal income per capita,dollar,All industry total,44967
+30,2016,New Hampshire,Personal income per capita,dollar,All industry total,56480
+31,2016,New Jersey,Personal income per capita,dollar,All industry total,62701
+32,2016,New Mexico,Personal income per capita,dollar,All industry total,38825
+33,2016,New York,Personal income per capita,dollar,All industry total,61226
+34,2016,North Carolina,Personal income per capita,dollar,All industry total,42651
+35,2016,North Dakota,Personal income per capita,dollar,All industry total,52525
+36,2016,Ohio,Personal income per capita,dollar,All industry total,45040
+37,2016,Oklahoma,Personal income per capita,dollar,All industry total,41871
+38,2016,Oregon,Personal income per capita,dollar,All industry total,46498
+39,2016,Pennsylvania,Personal income per capita,dollar,All industry total,51614
+40,2016,Rhode Island,Personal income per capita,dollar,All industry total,50541
+41,2016,South Carolina,Personal income per capita,dollar,All industry total,40404
+42,2016,South Dakota,Personal income per capita,dollar,All industry total,48627
+43,2016,Tennessee,Personal income per capita,dollar,All industry total,43726
+44,2016,Texas,Personal income per capita,dollar,All industry total,45616
+45,2016,Utah,Personal income per capita,dollar,All industry total,42375
+46,2016,Vermont,Personal income per capita,dollar,All industry total,50796
+47,2016,Virginia,Personal income per capita,dollar,All industry total,53605
+48,2016,Washington,Personal income per capita,dollar,All industry total,55884
+49,2016,West Virginia,Personal income per capita,dollar,All industry total,36931
+50,2016,Wisconsin,Personal income per capita,dollar,All industry total,47550
+51,2016,Wyoming,Personal income per capita,dollar,All industry total,54610
+1,2017,Alabama,Personal income per capita,dollar,All industry total,40467
+2,2017,Alaska ,Personal income per capita,dollar,All industry total,56794
+3,2017,Arizona,Personal income per capita,dollar,All industry total,42505
+4,2017,Arkansas,Personal income per capita,dollar,All industry total,41520
+5,2017,California,Personal income per capita,dollar,All industry total,60156
+6,2017,Colorado,Personal income per capita,dollar,All industry total,55335
+7,2017,Connecticut,Personal income per capita,dollar,All industry total,72213
+8,2017,Delaware,Personal income per capita,dollar,All industry total,50350
+9,2017,District of Columbia,Personal income per capita,dollar,All industry total,78969
+10,2017,Florida,Personal income per capita,dollar,All industry total,47869
+11,2017,Georgia,Personal income per capita,dollar,All industry total,44536
+12,2017,Hawaii ,Personal income per capita,dollar,All industry total,53145
+13,2017,Idaho,Personal income per capita,dollar,All industry total,42094
+14,2017,Illinois,Personal income per capita,dollar,All industry total,53943
+15,2017,Indiana,Personal income per capita,dollar,All industry total,45225
+16,2017,Iowa,Personal income per capita,dollar,All industry total,47458
+17,2017,Kansas,Personal income per capita,dollar,All industry total,48869
+18,2017,Kentucky,Personal income per capita,dollar,All industry total,40999
+19,2017,Louisiana,Personal income per capita,dollar,All industry total,43938
+20,2017,Maine,Personal income per capita,dollar,All industry total,46570
+21,2017,Maryland,Personal income per capita,dollar,All industry total,60512
+22,2017,Massachusetts,Personal income per capita,dollar,All industry total,68233
+23,2017,Michigan,Personal income per capita,dollar,All industry total,46258
+24,2017,Minnesota,Personal income per capita,dollar,All industry total,54919
+25,2017,Mississippi,Personal income per capita,dollar,All industry total,36375
+26,2017,Missouri,Personal income per capita,dollar,All industry total,45744
+27,2017,Montana,Personal income per capita,dollar,All industry total,45312
+28,2017,Nebraska,Personal income per capita,dollar,All industry total,50663
+29,2017,Nevada,Personal income per capita,dollar,All industry total,46914
+30,2017,New Hampshire,Personal income per capita,dollar,All industry total,58397
+31,2017,New Jersey,Personal income per capita,dollar,All industry total,64924
+32,2017,New Mexico,Personal income per capita,dollar,All industry total,39521
+33,2017,New York,Personal income per capita,dollar,All industry total,65644
+34,2017,North Carolina,Personal income per capita,dollar,All industry total,44180
+35,2017,North Dakota,Personal income per capita,dollar,All industry total,52669
+36,2017,Ohio,Personal income per capita,dollar,All industry total,46651
+37,2017,Oklahoma,Personal income per capita,dollar,All industry total,43634
+38,2017,Oregon,Personal income per capita,dollar,All industry total,48372
+39,2017,Pennsylvania,Personal income per capita,dollar,All industry total,53144
+40,2017,Rhode Island,Personal income per capita,dollar,All industry total,52379
+41,2017,South Carolina,Personal income per capita,dollar,All industry total,42081
+42,2017,South Dakota,Personal income per capita,dollar,All industry total,49554
+43,2017,Tennessee,Personal income per capita,dollar,All industry total,44950
+44,2017,Texas,Personal income per capita,dollar,All industry total,47929
+45,2017,Utah,Personal income per capita,dollar,All industry total,44002
+46,2017,Vermont,Personal income per capita,dollar,All industry total,51976
+47,2017,Virginia,Personal income per capita,dollar,All industry total,55306
+48,2017,Washington,Personal income per capita,dollar,All industry total,58550
+49,2017,West Virginia,Personal income per capita,dollar,All industry total,38644
+50,2017,Wisconsin,Personal income per capita,dollar,All industry total,49290
+51,2017,Wyoming,Personal income per capita,dollar,All industry total,56377

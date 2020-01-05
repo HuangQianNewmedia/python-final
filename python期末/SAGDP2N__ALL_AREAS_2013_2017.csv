@@ -1,0 +1,52 @@
+GeoFIPS,GeoName,ComponentName,Unit,IndustryId,Description,Y2013,Y2014,Y2015,Y2016,Y2017,Y,X
+AL,Alabama,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,191481,194211,200402.7,203829.8,210364.4,32.36167,-86.27917
+AK,Alaska,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,56622.8,55523.4,50641.6,49363.4,51803.1,58.18,-134.25
+AZ,Arizona,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,275199.1,284430,297141.2,311091,327495.8,33.3,-122.05
+AR,Arkansas,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,114251.5,117336.7,118761.2,120374.8,123383.1,34.44,-92.19
+CA,California,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,2262771.2,2395162.3,2553772.2,2657797.6,2819110.7,38.34,-121.28
+CO,Colorado,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,288305.2,306571.1,318554.9,329368.3,350004.4,39.43,-104.59
+CT,Connecticut,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,246632,248865.2,260072.6,263696.4,268310.5,41.46,-72.41
+DE,Delaware,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,60666.1,66891,70969.4,69549.7,70774.8,39.1,-75.32
+Washington D.C.,District of Columbia,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,114891,119841,125211.9,129826.1,134042.7,38.895,-77.03667
+FL,Florida,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,800704.1,839484.1,895146.2,938774.2,985665.4,30.43861,-84.28083
+GA,Georgia,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,460585.1,485816.7,513565.6,539525.1,566473.6,33.46,-84.25
+HI,Hawaii,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,75788.3,77854.3,82710,85843.8,89428.9,21.25,-157.5
+ID,Idaho,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,61017.7,63521.8,66004.3,69029.4,72723.2,43.37,-116.13
+IL,Illinois,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,739627.9,765347.7,792999.4,806315.5,826817.8,41.51,-87.41
+IN,Indiana,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,308681.7,324934.5,330032.2,338126.1,351105.6,39.47,-86.08
+IA,Iowa,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,160299.8,171561,178472.6,179546.6,181846.3,41.36,-93.38
+KS,Kansas,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,143220.7,148225.6,152374.1,156857.4,161219.6,39.02,-95.41
+KY,Kentucky,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,182359.2,186523,191923.3,195342.2,200715.4,38.12,-84.52
+LA,Louisiana,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,228967.4,238679.5,234299.1,227226.7,239204.3,30.27,-91.08
+ME,Maine,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,53719,55795.4,57525.7,59753.9,62040.3,44.19,-69.46
+MD,Maryland,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,341255.3,352046.7,367096.5,384889.1,394258.6,38.97306,-76.50111
+MA,Massachusetts,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,454345.7,473279,502858,519407.6,540786,42.19,-71.05
+MI,Michigan,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,432717.6,449127.7,474301.4,491774.2,505561.2,42.73361,-84.54667
+MN,Minnesota,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,306153,319778.7,329493.2,339100.1,351416.8,44.95389,-93.09
+MS,Mississippi,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,101638.1,104146,105883.4,107096.6,110223.4,32.29889,-90.18472
+MO,Missouri,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,277851.1,284712.5,294794.6,297582.6,304946.2,38.57722,-92.17333
+MT,Montana,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,43141,44495.7,46152.9,45457.9,47559.1,46.59583,-112.02694
+NE,Nebraska,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,107604.3,111161.7,115328,116193.8,120517.4,40.81,-96.67583
+NV,Nevada,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,130621.4,135153.2,144232.4,151215.1,158847.6,39.16083,-119.75389
+NH,New Hampshire,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,70181.9,72340.1,76033.3,78477.9,80900.2,43.20667,-71.53806
+NJ,New Jersey,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,533686.7,546686.5,569679.5,582427.5,595324.5,40.22361,-74.76389
+NM,New Mexico,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,88411.2,92480.7,90969,91043.6,94267.1,35.66722,-105.96444
+NY,New York,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,1355581.4,1427495.2,1487754.1,1539555.2,1604133.6,42.6525,-73.75722
+NC,North Carolina,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,455521.6,475994.6,503628.8,519122.1,538401.6,35.78,-78.63778
+ND,North Dakota,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,53881.7,58650,55012.2,50833.1,52472.3,46.81333,-100.77889
+OH,Ohio,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,561045.5,593355.1,610772.3,622835.2,645326,39.98333,-82.98333
+OK,Oklahoma,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,182618.4,195023.2,185936.7,178913.2,188368.1,35.48222,-97.535
+OR,Oregon,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,179382.7,188880.2,203158.9,215050.4,226618.9,44.93083,-123.02889
+PA,Pennsylvania,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,663900.8,691187.5,711205.4,726163.9,744290.1,40.27389,-76.88444
+RI,Rhode Island,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,53209.9,54427.3,56759.4,57693.9,58506.3,41.82361,-71.42222
+SC,South Carolina,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,183014.9,191938.2,203920.9,212987.4,223111.1,34.00111,-81.03417
+SD,South Dakota,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,44814.9,46046.5,47752.3,48606.1,49738.7,44.36806,-100.33639
+TN,Tennessee,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,292803.9,303809,322663.6,335025.7,345949.8,36.16667,-86.78333
+TX,Texas,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,1502249.8,1572818.4,1568457,1565632.2,1665631.8,30.25,-97.75
+UT,Utah,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,134252.1,141259.7,149371.6,157883.3,167254.6,40.76139,-111.89111
+VT,Vermont,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,29098.8,29701.3,30729.6,31659,32209.8,44.26056,-72.575
+VA,Virginia,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,455070,463477.6,484216.6,493877.9,509372.8,39.18611,-78.16333
+WA,Washington,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,419345,442201.3,470329.3,491358.2,524814.6,47.03806,-122.90056
+WV,West Virginia,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,71037.6,71919.2,70281,69721.4,73162.9,38.34722,-81.63333
+WI,Wisconsin,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,282384.6,293884.6,305816.5,313532.4,321987.7,43.07389,-89.40056
+WY,Wyoming,Gross domestic product (GDP) by state,Millions of current dollars,1,All industry total,38922.5,39436.1,37721.5,35740.3,37453.6,41.14556,-104.80194

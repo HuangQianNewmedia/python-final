@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>美国经济发展与就业及收入</title>
+    <link rel="stylesheet" href="static/hf.css" />
+</head>
+<body>
+<a href="static/san_map_GDP.html">
+    <button>地图故事之GDP</button>
+</a>
+<a href="static/san_map_total_employment.html">
+
+    <button>地图故事之年度总就业数</button>
+</a>
+<a href="static/san_map_Personal_income_per_capita.html">
+    <button>地图故事之人均收入</button>
+</a>
+<a href="https://gitee.com/HailBucky/Interactive_Visual/blob/master/README.md">
+    <button>数据故事描述</button>
+</a>
+<form method="POST" action="/">
+    <select name="the_region_selected">
+        {% for item in the_select_region %}
+            <option value="{{ item }}">{{ item }}</option>
+        {% endfor %}
+    </select>
+<p><input value='Do it!' type='SUBMIT'></p>
+</form>
+{{ the_plot_all|safe }}
+{{ the_res|safe }}
+
+
+</body>
+</html>

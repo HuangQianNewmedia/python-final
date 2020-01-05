@@ -34,8 +34,10 @@ def people_select() -> 'html':
     with open("result.html", encoding="utf8", mode="r") as f:
         plot_all = "".join(f.readlines())
     regions_available = regions_available_loaded
+    title = (' '.join(list(dfs.ComponentName[0:1])))
 
     return render_template('results2.html',
+                           the_title=title,
                            the_plot_all= plot_all,
                            the_res=data_str,
                            the_select_region=regions_available,
